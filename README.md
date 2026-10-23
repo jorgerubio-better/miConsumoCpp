@@ -1,8 +1,9 @@
 # MiConsumo - Cálculo y Simulación de Ahorro Energético (C++ POO)
 
+> **Programa:** Ingeniería de Software y Datos  
 > **Asignatura:** Programación Orientada a Objetos (PREICA2602B020043)  
 > **Institución:** Institución Universitaria Digital de Antioquia (IU Digital)  
-> **Estudiante:** Jorge Rubio  
+> **Estudiante:** Jorge Alejandro Rubio Giraldo  
 > **Docente:** Carlos Arturo Castro Castro  
 > **Año:** 2026-2
 
